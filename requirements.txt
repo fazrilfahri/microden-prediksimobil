@@ -1,0 +1,9 @@
+flask
+gunicorn
+pandas
+pickle
+numpy
+render_template
+request
+LinearRegression
+train_test_split

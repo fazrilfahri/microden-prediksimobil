@@ -1,5 +1,7 @@
 flask
-gunicorn
 pandas
 numpy
+pickle-mixin
+gunicorn
 LinearRegression
+scikit-learn

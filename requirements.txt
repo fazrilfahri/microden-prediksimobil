@@ -2,7 +2,5 @@ flask
 gunicorn
 pandas
 numpy
-render_template
-request
 LinearRegression
 train_test_split

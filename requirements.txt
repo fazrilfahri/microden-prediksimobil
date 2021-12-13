@@ -1,7 +1,6 @@
 flask
 gunicorn
 pandas
-pickle
 numpy
 render_template
 request
